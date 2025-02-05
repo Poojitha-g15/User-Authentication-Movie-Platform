@@ -1,4 +1,4 @@
-# first_app
+# User Authentication Movie Platform
 
 A new Flutter project.
 
